@@ -1,6 +1,5 @@
-# Oh, Hi There
 
-# <summary><strong>Hi there 👋 , I'm Nero!</strong></summary>
+# <summary><strong>Oh, Hi there , I'm Nero!</strong></summary>
 Lifelong Learner, currently working as Web Developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
